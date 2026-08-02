@@ -1,0 +1,6 @@
+index.html
+*.br
+*.externs.js
+*.minified.js
+*.templated.js
+*.pyc
